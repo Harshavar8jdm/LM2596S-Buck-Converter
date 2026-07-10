@@ -15,13 +15,3 @@ Custom LM2596S Buck Converter
 ![Schematic](Images/schematic.png)
 
 ---
-
-## Repository Structure
-
-```text
-├── Images/
-│   ├── pcb_layout.png
-│   ├── 3d_render_front.png
-│   ├── 3d_render_back.png
-│   └── schematic.png
-└── README.md
